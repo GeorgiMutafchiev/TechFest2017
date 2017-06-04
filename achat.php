@@ -1,3 +1,4 @@
+<?php
 
 namespace SPA_Common;
 define('DB_USERNAME',       'kozle1_bebio');
