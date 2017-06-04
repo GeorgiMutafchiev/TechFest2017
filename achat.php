@@ -343,6 +343,8 @@ $chatApp = new Controller(); ?><!doctype html>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 </head>
 
+	<?php include 'chat_js_css.php'; ?>
+	
 <body ng-controller="ChatAppCtrl">
 
 	<div id="page">
