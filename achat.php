@@ -1,10 +1,4 @@
-<?php
-/**
- * SPAChat - Simple PHP Angular Ajax Chat
- *
- * @date    2013-05-31
- * @author  Jonas Sciangula Street <joni2back {at} gmail.com>
- */
+
 namespace SPA_Common;
 define('DB_USERNAME',       'kozle1_bebio');
 define('DB_PASSWORD',       'bebio123');
